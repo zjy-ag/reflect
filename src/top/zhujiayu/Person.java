@@ -8,9 +8,9 @@ package top.zhujiayu;
 
 public class Person {
 
-    private String name;
+    public String name;
 
-    int age;
+    private int age;
 
     public Person() {
     }

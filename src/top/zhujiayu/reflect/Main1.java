@@ -1,4 +1,6 @@
-package top.zhujiayu;
+package top.zhujiayu.reflect;
+
+import top.zhujiayu.Person;
 
 /**
  *  @auther zjy
@@ -12,7 +14,7 @@ package top.zhujiayu;
  *
  */
 
-public class Main {
+public class Main1 {
 
     public static void main(String[] args) throws ClassNotFoundException {
 
